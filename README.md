@@ -9,7 +9,7 @@
 - 👯 Open to collaborate on **AI-powered web apps** and **full-stack projects**  
 - 💬 Ask me about **C++, Data Structures, and Problem Solving**  
 - 📫 Reach me at **utsav1072@gmail.com**  
-- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1yDjlkGwUBnH7CP3Ib0o4xfQj9WKGgr38/view?usp=drive_link)  
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/16zNwEC-X44LmYVZOEqqecWcmR4D9gy9C/view?usp=drive_link)  
 - ⚡ Fun fact: **Debugging teaches me more patience than meditation 🧘‍♂️**  
 
 ---
