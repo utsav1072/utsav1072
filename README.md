@@ -11,6 +11,9 @@
 - 📫 Reach me at **utsav1072@gmail.com**  
 - 📄 Check out my [**Resume**](https://drive.google.com/file/d/16zNwEC-X44LmYVZOEqqecWcmR4D9gy9C/view?usp=drive_link)  
 - ⚡ Fun fact: **Debugging teaches me more patience than meditation 🧘‍♂️**  
+- 💡 Also, check out my other projects:  
+  - [**CodeAssistant (CodeGeass)**](https://github.com/utsav1072/Codegeass) — Full-stack AI coding assistant ([Live Demo](https://geass-code.vercel.app/))  
+  - [**ResumeCraft**](https://github.com/utsav1072/Resumecraft) — Smart resume builder web app ([Live Demo](https://utsav10721.vercel.app/login))  
 
 ---
 
@@ -23,7 +26,7 @@
 </p>
 
 ---
- 
+
 ### 🛠️ Languages & Tools  
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -37,7 +40,6 @@
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
-
 
 ---
 
